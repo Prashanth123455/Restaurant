@@ -1,0 +1,19 @@
+.contact{
+    background-color: aliceblue;
+    padding-top: 0px;
+    padding-left: 100px;
+    padding-right: 100px; 
+    color:black;
+}
+h1{
+    margin-left: 45%;
+}
+.Box{
+    padding:1%;
+    width: 100%;
+}
+.logos a{
+    color:black;
+    font-size: 39px;
+    font-weight: bold;
+}
